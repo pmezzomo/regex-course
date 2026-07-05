@@ -6,13 +6,13 @@ Covers regex fundamentals through advanced features, with examples in JavaScript
 ## Structure
 
 ```
-curso-regex/
-├── caracteres/         # Characters: simple, meta, whitespace, unicode, OR
-├── conjuntos/          # Sets: ranges, negation, shorthands
-├── ponto/              # Dot metacharacter
-├── quantificadores/    # Quantifiers: ?, *, +, {n,m}, greedy vs. lazy — includes real-world challenges
-├── grupos/             # Groups and backreferences
-└── executandoRegex/    # Running regex in JS, Python, Java, Go, Ruby — flags and methods
+regex-course/
+├── characters/         # Characters: simple, meta, whitespace, unicode, OR
+├── sets/               # Sets: ranges, negation, shorthands
+├── dot/                # Dot metacharacter
+├── quantifiers/        # Quantifiers: ?, *, +, {n,m}, greedy vs. lazy — includes real-world challenges
+├── groups/             # Groups and backreferences
+└── runningRegex/       # Running regex in JS, Python, Java, Go, Ruby — flags and methods
 ```
 
 ## Topics covered
